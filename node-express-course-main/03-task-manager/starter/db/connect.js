@@ -1,2 +1,2 @@
 const connectionString =
-  "mongodb+srv://kangjames2003:<password>@cluster0.uxr3ldq.mongodb.net/";
+  "mongodb+srv://kangjames2003:TkQivEi4gufoBALM@cluster0.uxr3ldq.mongodb.net/";
